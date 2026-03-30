@@ -1,0 +1,30 @@
+body {
+    background-color: #171515;
+}
+
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #000000
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.titulo {
+    font-size: 32px;
+    font-weight: bold;
+    color: #24906c;
+}
+
+.subtitulo {
+    color: #3f8d55;
+}
+
+.conteudo {
+    background-color: rgb(23, 22, 27);
+     color: #2e6f40;
+}
