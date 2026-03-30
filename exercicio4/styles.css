@@ -5,13 +5,14 @@ body {
 .container {
     font-family: Arial, sans-serif;
     padding: 20px;
-    background-color: #000000
+    background-color: #000b00
 }
 
 .cabecalho {
     display: flex;
     flex-direction: column;
     align-items: center; 
+    background-color: #17161b;
 }
 
 .titulo {
@@ -25,6 +26,6 @@ body {
 }
 
 .conteudo {
-    background-color: rgb(23, 22, 27);
+    background-color: #17161b;
      color: #2e6f40;
 }
